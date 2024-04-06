@@ -24,7 +24,7 @@ Nombre del Proyecto 3
 Breve descripción del proyecto y su propósito.
 
 Tecnologías utilizadas: Node.js, React, MongoDB.
-<img src "https://fontawesome.com/icons/js?f=brands&s=solid"/>
+<img src="https://fontawesome.com/icons/js?f=brands&s=solid"/>
 
 Contacto
 
