@@ -25,11 +25,10 @@ Breve descripción del proyecto y su propósito.
 
 Tecnologías utilizadas: Node.js, React, MongoDB.
 
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-<!-- in your body -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <i class="devicon-devicon-plain"></i>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg'>
 Contacto
 
 ¡Estoy abierto a colaboraciones y oportunidades emocionantes! Puedes contactarme a través de correo electrónico o LinkedIn.
