@@ -3,8 +3,8 @@
 </div>  
   
 
-<div align="center">Dylan - Desarrollador Backend</div>
 
+## Dylan - Desarrollador Backend
     🔭 Actualmente en búsqueda de empleo.
 
     🌱 Aprendiendo Java.
@@ -13,7 +13,7 @@
 <br/>  
 
 
-## My Skill Set  
+##  Mis Skills  
 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -39,7 +39,7 @@
 <br/>  
 
 
-## Connect with me  
+## Contacto  
 <a href="https://linkedin.com/in/dylan-crowder-681226277/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
