@@ -64,10 +64,5 @@ Soy desarrollador backend en el stack MERN (MongoDB, Express.js, React.js, Node.
 
   
 
-<br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
