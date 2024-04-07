@@ -6,7 +6,7 @@
 
 ## Dylan - Desarrollador Backend
 
-Soy desarrollador backend en el stack MERN (MongoDB, Express.js, React.js, Node.js). Especializado en el diseño e implementación de APIs RESTful, me enfoco en la creación de sistemas. Mi objetivo es optimizar el rendimiento y garantizar la eficiencia del sistema. Estoy abierto a nuevos desafíos y comprometido a mejorar continuamente mis habilidades para contribuir al éxito del equipo de desarrollo.
+Soy desarrollador backend en el stack MERN (MongoDB, Express.js, React.js, Node.js). Me especializo en el diseño e implementación de APIs RESTful, centrándome en la creación de sistemas. Mi objetivo es optimizar el rendimiento y garantizar la eficiencia del sistema. Estoy abierto a nuevos desafíos y comprometido a mejorar continuamente mis habilidades para contribuir al éxito del equipo de desarrollo.
 <br/> 
 
 
