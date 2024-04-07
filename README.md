@@ -12,7 +12,9 @@ Soy desarrollador backend en el stack MERN (MongoDB, Express.js, React.js, Node.
 
     🔭 Actualmente en búsqueda de empleo.
 
-    🌱 Aprendiendo Java.
+    🌱 Aprendiendo Java y Typescript.
+
+    
   
 
 <br/>  
