@@ -3,13 +3,11 @@
 </div>  
   
 
-### <div align="center">hi my name is dylan and i am backend developer</div>  
-  
+<div align="center">Dylan - Desarrollador Backend</div>
 
-- 🔭 I’m currently hiren a job  
-  
+    🔭 Actualmente en búsqueda de empleo.
 
-- 🌱 I’m currently learning java   
+    🌱 Aprendiendo Java.
   
 
 <br/>  
