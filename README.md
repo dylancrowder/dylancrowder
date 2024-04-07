@@ -5,12 +5,18 @@
 
 
 ## Dylan - Desarrollador Backend
+
+Descripción para desarrollador backend con MERN Stack:
+
+Soy un desarrollador backend con experiencia en el stack MERN (MongoDB, Express.js, React.js, Node.js). Especializado en el diseño e implementación de robustas APIs RESTful, me enfoco en la creación de sistemas escalables y seguros. Mi objetivo es optimizar el rendimiento y garantizar la eficiencia del sistema. Estoy abierto a nuevos desafíos y comprometido a mejorar continuamente mis habilidades para contribuir al éxito del equipo de desarrollo.
+<br/> 
     🔭 Actualmente en búsqueda de empleo.
 
     🌱 Aprendiendo Java.
   
 
 <br/>  
+
 
 
 ##  Mis Skills  
@@ -51,9 +57,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dylancrowder&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
