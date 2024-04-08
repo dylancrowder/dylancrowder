@@ -1,4 +1,4 @@
-## Dylan - Desarrollador Backend
+## Dylan - Backend Developer
 
 I am a web backend developer. I specialize in designing and implementing RESTful APIs, focusing on building systems. My goal is to optimize performance and ensure system efficiency. I am open to new challenges and committed to continuously improving my skills to contribute to the development team's success.
 <br/> 
