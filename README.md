@@ -1,12 +1,12 @@
 ## Dylan - Desarrollador Backend
 
-Soy desarrollador backend en el stack MERN (MongoDB, Express.js, React.js, Node.js). Me especializo en el diseño e implementación de APIs RESTful, centrándome en la creación de sistemas. Mi objetivo es optimizar el rendimiento y garantizar la eficiencia del sistema. Estoy abierto a nuevos desafíos y comprometido a mejorar continuamente mis habilidades para contribuir al éxito del equipo de desarrollo.
+I am a web backend developer. I specialize in designing and implementing RESTful APIs, focusing on building systems. My goal is to optimize performance and ensure system efficiency. I am open to new challenges and committed to continuously improving my skills to contribute to the development team's success.
 <br/> 
 
 
-    🔭 Actualmente en búsqueda de empleo.
+    🔭 Currently seeking employment.
 
-    🌱 Aprendiendo Java y Typescript.
+    🌱 Learning Java.
 
     
   
@@ -15,7 +15,7 @@ Soy desarrollador backend en el stack MERN (MongoDB, Express.js, React.js, Node.
 
 
 
-##  Mis Skills  
+## My Skills
 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -41,7 +41,7 @@ Soy desarrollador backend en el stack MERN (MongoDB, Express.js, React.js, Node.
 <br/>  
 
 
-## Contacto  
+## Contact 
 <a href="https://linkedin.com/in/dylan-crowder-681226277/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
