@@ -1,6 +1,6 @@
-## Dylan - Backend Developer
+## Dylan - Full stack Developer
 
-I am a web backend developer. I specialize in designing and implementing RESTful APIs, focusing on building systems. My goal is to optimize performance and ensure system efficiency. I am open to new challenges and committed to continuously improving my skills to contribute to the development team's success.
+I am a skilled full stack developer with a focus on designing and implementing efficient web systems. My expertise lies in optimizing performance and enhancing system functionality. I am passionate about tackling new challenges and continuously advancing my skills to contribute meaningfully to the success of the development team.
 <br/> 
 
 
