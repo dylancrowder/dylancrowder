@@ -1,4 +1,4 @@
-## Dylan - Backend Developer
+## Dylan - Web Developer
 
 I am a web developer with a focus on designing and implementing efficient web systems. My expertise lies in optimizing performance and enhancing system functionality. I am passionate about tackling new challenges and continuously advancing my skills to contribute meaningfully to the success of the development team.
 <br/> 
