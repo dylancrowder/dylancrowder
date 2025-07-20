@@ -1,8 +1,8 @@
 <h1 align="center">Dylan Crowder — FullStack Developer </h1>
 
 <p align="center">
-  Passionate about building robust, scalable, and modern web applications.<br />
-  Specializing in TypeScript, Node.js, microservices, and cloud-native architectures.
+ I enjoy building robust, scalable, and modern web applications that solve real-world problems.
+I specialize in TypeScript, Node.js, microservices, DevOps practices, and cloud-native architectures.
 </p>
 
 <br />
