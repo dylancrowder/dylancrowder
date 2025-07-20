@@ -1,4 +1,4 @@
-<h1 align="center">Dylan Crowder — FullStack Developer ⚡</h1>
+<h1 align="center">Dylan Crowder — FullStack Developer </h1>
 
 <p align="center">
   Passionate about building robust, scalable, and modern web applications.<br />
