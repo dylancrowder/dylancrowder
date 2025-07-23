@@ -1,7 +1,7 @@
-<h1 align="center">Dylan Crowder — Developer </h1>
+<h1 align="center">Dylan Crowder — Developer</h1>
 
 <p align="center">
-I develop modern web applications that solve real-world problems.
+I develop modern web applications that solve real-world problems.<br />
 I specialize in TypeScript, Node.js, microservices, DevOps practices, and cloud-native architectures.
 </p>
 
@@ -54,10 +54,11 @@ I specialize in TypeScript, Node.js, microservices, DevOps practices, and cloud-
 <p align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" style="margin:30px"/>
   <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" style="margin:30px"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original.svg" alt="AWS" height="50" style="margin:30px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" height="50" style="margin:30px"/>
 </p>
 
 <br><br>
-
 
 ## 📊 GitHub Stats
 
@@ -65,4 +66,3 @@ I specialize in TypeScript, Node.js, microservices, DevOps practices, and cloud-
   <img src="https://github-readme-stats.vercel.app/api?username=dylancrowder&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylancrowder&layout=compact&theme=tokyonight" height="180"/>
 </p>
-
