@@ -54,11 +54,10 @@ I specialize in TypeScript, Node.js, microservices, DevOps practices, and cloud-
 <p align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" style="margin:30px"/>
   <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" style="margin:30px"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original.svg" alt="AWS" height="50" style="margin:30px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="50" style="margin:30px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" height="50" style="margin:30px"/>
 </p>
 
-<br><br>
 
 ## 📊 GitHub Stats
 
