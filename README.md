@@ -1,7 +1,7 @@
 <h1 align="center">Dylan Crowder — Developer </h1>
 
 <p align="center">
- I enjoy building robust, scalable, and modern web applications that solve real-world problems.
+I develop modern web applications that solve real-world problems.
 I specialize in TypeScript, Node.js, microservices, DevOps practices, and cloud-native architectures.
 </p>
 
